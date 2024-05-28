@@ -6,21 +6,21 @@
 #include <distances.inc>
 ```
 
-### Functions:
-    ## Global
-    GetDistancePoinFromPoint
+## Functions:
+### Global 
+GetDistancePoinFromPoint
 
-    ## Player
-    - GetDistancePlayerFromPlayer
-    - IsPlayerNearToPlayer
-    - GetClosestPlayerFromPlayer
+### Player
+- GetDistancePlayerFromPlayer
+- IsPlayerNearToPlayer
+- GetClosestPlayerFromPlayer
 
-    ## Vehicles
-    - GetDistanceVehicleFromVehicle
-    - IsVehicleNearToVehicle
+### Vehicles
+- GetDistanceVehicleFromVehicle
+- IsVehicleNearToVehicle
 
-    ## Player/Vehicle
-    - GetVehicleDistanceFromPlayer
-    - GetClosestVehicleFromPlayer
-    - IsPlayerNearToVehicle
+### Player/Vehicle
+- GetVehicleDistanceFromPlayer
+- GetClosestVehicleFromPlayer
+- IsPlayerNearToVehicle
 # SAMP-Distances

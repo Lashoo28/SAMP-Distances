@@ -23,4 +23,3 @@ GetDistancePoinFromPoint
 - GetVehicleDistanceFromPlayer
 - GetClosestVehicleFromPlayer
 - IsPlayerNearToVehicle
-# SAMP-Distances
